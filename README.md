@@ -1,9 +1,9 @@
-# Testing 12345
+# Professional ReadMe Generator
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Description test
+This project utilizes inquirer to prompt the user for answers to a set of questions. Then it uses those answers to fill in the ReadMe content.
 
 ## License
 MIT
@@ -18,24 +18,24 @@ This project is licensed under the MIT License. For more information, please ref
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-Install 
+1. Clone the Repo. 2. Run NPM I 3. run node index.js from command line. 4. Answer prompts 5. Take generated readMe and upload it to the intended file. 
 
 ## Usage
-Using it
+The application of this library is to expedite the ReadME process.
 
 
 ## Contributing
-I did it myslef
+undefined
 
 ## Tests
-12345 testing 12345
+Testing 123 Testing
 
 ## Questions
 For additional questions, you can reach me via:
-- GitHub: [A-W](https://github.com/A-W)
-- Email: aw@yahoo.com
+- GitHub: [A-Witthohn](https://github.com/A-Witthohn)
+- Email: awitthohn@yahoo.com
