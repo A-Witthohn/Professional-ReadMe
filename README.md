@@ -1,9 +1,9 @@
-# Professional ReadMe Generator
+# Professional Readme Generator v1
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project is demonstrating my ability to create a readme file from the command line inside vsc using inquirer.
+This project is designed to demonstrate an understanding of how to use npm packages such as inquirer to build a readme from the command line.
 
 ## License
 MIT
@@ -18,25 +18,26 @@ This project is licensed under the MIT License. For more information, please ref
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributions](#contributions)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-first you clone the repo from my git hub. then install the npm packages. finally you run node index.js in the terminal to start the prompts.
+First the user needs to clone the repo. Then the user will need to install the necessary dependancies and packages using the npm i, npm install inquirer etc. Finally the user will need to initiate the prompts by running node index.js in the root directory. The user will be prompted for responses and when complete the readme will generate. 
 
 ## Usage
-the usage is endless lol
+The usage is endless, you can apply this to all new creations to speed up the process of readme files.
 
 
 ## Contributing
-undefined
+The contributions are endless.
 
 ## Tests
-there are no current tests built for this.
+Testing 1 2 3 4 5
 
 ## Video Submission
-https://drive.google.com/file/d/1ukyRoyJjD-gLzPfC3Xmzt_s93HpD43DA/view
+
+https://drive.google.com/file/d/1gPXit8sZwzLVEO3EqaMz69fz6_J_ter_/view
 
 ## Questions
 For additional questions, you can reach me via:
