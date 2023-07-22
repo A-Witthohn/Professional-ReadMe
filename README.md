@@ -3,7 +3,7 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project utilizes inquirer to prompt the user for answers to a set of questions. Then it uses those answers to fill in the ReadMe content.
+This project is demonstrating my ability to create a readme file from the command line inside vsc using inquirer.
 
 ## License
 MIT
@@ -23,19 +23,22 @@ This project is licensed under the MIT License. For more information, please ref
 - [Questions](#questions)
 
 ## Installation
-1. Clone the Repo. 2. Run NPM I 3. run node index.js from command line. 4. Answer prompts 5. Take generated readMe and upload it to the intended file. 
+first you clone the repo from my git hub. then install the npm packages. finally you run node index.js in the terminal to start the prompts.
 
 ## Usage
-The application of this library is to expedite the ReadME process.
+the usage is endless lol
 
 
 ## Contributing
 undefined
 
 ## Tests
-Testing 123 Testing
+there are no current tests built for this.
+
+## Video Submission
+https://drive.google.com/file/d/1ukyRoyJjD-gLzPfC3Xmzt_s93HpD43DA/view
 
 ## Questions
 For additional questions, you can reach me via:
 - GitHub: [A-Witthohn](https://github.com/A-Witthohn)
-- Email: awitthohn@yahoo.com
+- Email: AWitthohn@yahoo.com
